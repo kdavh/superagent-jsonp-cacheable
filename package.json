@@ -1,0 +1,32 @@
+{
+  "name": "superagent-jsonp-cacheable",
+  "version": "0.0.9",
+  "description": "Wrap a sweet jsonp filling in a savoury superagent wrapper",
+  "main": "dist/superagent-jsonp.js",
+  "dependencies": {
+    "superagent": ">=1.4"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-babel": "^6.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kdavh/superagent-jsonp-cacheable.git"
+  },
+  "keywords": [
+    "jsonp",
+    "superagent"
+  ],
+  "author": {
+    "name": "kdavh"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kdavh/superagent-jsonp-cacheables/issues"
+  },
+  "homepage": "https://github.com/kdavh/superagent-jsonp-cacheable"
+}
